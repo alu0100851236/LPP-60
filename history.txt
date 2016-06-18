@@ -1,0 +1,68 @@
+    1  cd practicas/prct0
+    2  cd practicas/prct01
+    3  ls
+    4  git status -v
+    5  git status v
+    6  git prct01/
+    7  cd prct01/
+    8  git status v
+    9  git branch
+   10  history > history.txt
+   11  git remote
+   12  git config --list
+   13  git merge desarrollo 
+   14  git branch -d desarrollo 
+   15  git bracnh
+   16  git branch 
+   17  git push -u origin master 
+   18  git pull master origin
+   19  cd ..
+   20  cd LPP-66/
+   21  ls
+   22  cd ..
+   23  mv LPP-66/ LPP-66_old
+   24  git remote v
+   25  git remote vv
+   26  git remote -v
+   27  git remot
+   28  git remote
+   29  git remote add LPP-66 git@github.com:alu0100851236/LPP-66.git
+   30  git remote add ghp02 git@github.com:alu0100851236/LPP-66.git
+   31  mkdir LPP-66
+   32  cd LPP-66
+   33  ls
+   34  git init
+   35  git remote add LPP-66 git@github.com:alu0100851236/LPP-66.git
+   36  ls
+   37  git remote -v
+   38  git status
+   39  ls -la
+   40  git log
+   41  cd ..
+   42  rm LPP-66
+   43  rm -r LPP-66
+   44  git remote clone  git@github.com:alu0100851236/LPP-66.git
+   45  mkdir LPP-66
+   46  cd LPP-66
+   47  git init
+   48  ls -la
+   49  git remote clone  git@github.com:alu0100851236/LPP-66.git
+   50  git remote clone git@github.com:alu0100851236/LPP-66.git
+   51  git remote -v
+   52  git remote add LPP-66 git@github.com:alu0100851236/LPP-66.git
+   53  git remote -v
+   54  git fetch LPP-66
+   55  ls
+   56  git remote clone git@github.com:alu0100851236/LPP-66.git
+   57  git clone git@github.com:alu0100851236/LPP-66.git
+   58  cd ..
+   59  rm -rf LPP-66
+   60  git clone git@github.com:alu0100851236/LPP-66.git
+   61  cd LPP-66
+   62  ls -la
+   63  git remote -v
+   64  git fetch LPP-66
+   65  git status
+   66  git remote add LPP-66 git@github.com:alu0100851236/LPP-66.git
+   67  git fetch LPP-66
+   68  history > history.txt
